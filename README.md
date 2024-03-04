@@ -38,7 +38,7 @@ Soy Andrés Felipe Trespalacios Pérez, técnico en software y académico en mat
 
   - Correo Electrónico: trespalaciosperez301@gmail.com
   
-  - Ubicación Palermo,Huila
+  - Ubicación: Palermo,Huila
 
 <!--
 **AndresTrespa/AndresTrespa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
